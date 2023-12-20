@@ -1,5 +1,5 @@
 # Ex-07-CSS
-## Ex-07(i)-CSS
+## Ex-07(i)-CSS-Modify the webpage's color scheme
 ## AIM:
 Using CSS media queries, modify the webpage's color scheme with the following requirements:
 
@@ -85,7 +85,7 @@ a {
 ![1-b](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/6cddf471-8871-4caa-b6fe-25f98875e824)
 ![1-c](https://github.com/Loknaath-sec/ODD2023-WT-Ex-07-CSS/assets/145742558/a49797ee-994d-4c9a-a258-9a4196f82fc9)
 
-## Ex-07(ii)-CSS
+## Ex-07(ii)-CSS-Different styles to a webpage.
 ## AIM:
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px) by providing an example CSS snippet to demonstrate your answer.
 ## DESIGN STEPS:(ii)
